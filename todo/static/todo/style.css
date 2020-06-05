@@ -1,0 +1,30 @@
+#navbar1 {
+    background-color: #8080ff;
+
+}
+
+footer {
+    background-color: #8080ff;
+    height: 120px;
+    position: relative;
+    margin-top: -100px;
+    clear: both;
+}
+
+#footerlink {
+    color:#ffffff;
+}
+
+
+html, body {
+    height: 100%;
+}
+
+
+#container {
+    min-height: 100%;
+}
+
+#main {
+    padding-bottom: 130px;
+}
